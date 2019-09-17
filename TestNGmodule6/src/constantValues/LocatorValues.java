@@ -1,6 +1,11 @@
 package constantValues;
 
 public class LocatorValues {
+	
+	//--------------------------------------------------------
+	//--------------------------------------------------------
+	//--------------------------------------------------------
+	//--------------------------------------------------------
 		
 	public String LoginLocatorValue_SignIn = "linkText:Log In";
 	public String UserNameLocatorValue_SignIn = "id:si_popup_email";
