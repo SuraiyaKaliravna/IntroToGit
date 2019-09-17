@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+    <line>
+      <![CDATA[The URL is openedhttps://www.edureka.co/]]>
+    </line>
+    <line>
+      <![CDATA[The Element is clicked at Locator: linkText:Log In]]>
+    </line>
+    <line>
+      <![CDATA[Entered the value at Locator: id:si_popup_email]]>
+    </line>
+    <line>
+      <![CDATA[Entered the value at Locator: id:si_popup_passwd]]>
+    </line>
+    <line>
+      <![CDATA[The Element is clicked at Locator: xpath://*[@id="new_sign_up_mode"]/div/div/div[2]/div[3]/form/button]]>
+    </line>
+    <line>
+      <![CDATA[Element is hovered and clicked at Locator: xpath://*[@id="footauto"]/app-root/app-mycourse-main/section/app-header/header/nav/div/div[3]/ul/li[2]/div/button]]>
+    </line>
+    <line>
+      <![CDATA[Element is hovered and clicked at Locator: linkText:All Courses]]>
+    </line>
+    <line>
+      <![CDATA[The Element is clicked at Locator: xpath://*[@id="header-II"]/section/nav/div/ul[2]/li[1]/a/span]]>
+    </line>
+    <line>
+      <![CDATA[The Element is clicked at Locator: linkText:Log Out]]>
+    </line>
+    <line>
+      <![CDATA[The Element is clicked at Locator: xpath://*[@id="header-II"]/section/nav/div/a[1]]]>
+    </line>
+    <line>
+      <![CDATA[Key board Keys used at Locator: xpath://*[@id="sg_popup_email"]]]>
+    </line>
+    <line>
+      <![CDATA[Key board Keys used at Locator: xpath://*[@id="sg_popup_email"]]]>
+    </line>
+    <line>
+      <![CDATA[Key board Keys used at Locator: xpath://*[@id="sg_popup_email"]]]>
+    </line>
+    <line>
+      <![CDATA[Key board Keys used at Locator: xpath://*[@id="sg_popup_email"]]]>
+    </line>
+    <line>
+      <![CDATA[Key board Keys used at Locator: xpath://*[@id="sg_popup_email"]]]>
+    </line>
+    <line>
+      <![CDATA[Key board Keys used at Locator: xpath://*[@id="sg_popup_email"]]]>
+    </line>
+    <line>
+      <![CDATA[Key board Keys used at Locator: xpath://*[@id="sg_popup_email"]]]>
+    </line>
+    <line>
+      <![CDATA[Key board Keys used at Locator: xpath://*[@id="sg_popup_email"]]]>
+    </line>
+    <line>
+      <![CDATA[Key board Keys used at Locator: xpath://*[@id="sg_popup_email"]]]>
+    </line>
+    <line>
+      <![CDATA[Key board Keys used at Locator: xpath://*[@id="sg_popup_email"]]]>
+    </line>
+    <line>
+      <![CDATA[Key board Keys used at Locator: xpath://*[@id="sg_popup_email"]]]>
+    </line>
+    <line>
+      <![CDATA[Key board Keys used at Locator: xpath://*[@id="sg_popup_email"]]]>
+    </line>
+    <line>
+      <![CDATA[Key board Keys used at Locator: xpath://*[@id="sg_popup_email"]]]>
+    </line>
+    <line>
+      <![CDATA[Key board Keys used at Locator: xpath://*[@id="sg_popup_email"]]]>
+    </line>
+    <line>
+      <![CDATA[Key board Keys used at Locator: xpath://*[@id="sg_popup_email"]]]>
+    </line>
+    <line>
+      <![CDATA[Key board Keys used at Locator: xpath://*[@id="sg_popup_email"]]]>
+    </line>
+    <line>
+      <![CDATA[Key board Keys used at Locator: xpath://*[@id="sg_popup_email"]]]>
+    </line>
+    <line>
+      <![CDATA[Key board Keys used at Locator: xpath://*[@id="sg_popup_email"]]]>
+    </line>
+    <line>
+      <![CDATA[Key board Keys used at Locator: xpath://*[@id="sg_popup_email"]]]>
+    </line>
+    <line>
+      <![CDATA[Key board Keys used at Locator: xpath://*[@id="sg_popup_email"]]]>
+    </line>
+    <line>
+      <![CDATA[Key board Keys used at Locator: xpath://*[@id="sg_popup_email"]]]>
+    </line>
+    <line>
+      <![CDATA[Key board Keys used at Locator: xpath://*[@id="sg_popup_email"]]]>
+    </line>
+    <line>
+      <![CDATA[Key board Keys used at Locator: xpath://*[@id="sg_popup_email"]]]>
+    </line>
+    <line>
+      <![CDATA[Key board Keys used at Locator: xpath://*[@id="sg_popup_email"]]]>
+    </line>
+    <line>
+      <![CDATA[Key board Keys used at Locator: xpath://*[@id="sg_popup_email"]]]>
+    </line>
+    <line>
+      <![CDATA[Key board Keys used at Locator: xpath://*[@id="sg_popup_email"]]]>
+    </line>
+    <line>
+      <![CDATA[Key board Keys used at Locator: xpath://*[@id="sg_popup_email"]]]>
+    </line>
+    <line>
+      <![CDATA[Key board Keys used at Locator: xpath://*[@id="sg_popup_email"]]]>
+    </line>
+    <line>
+      <![CDATA[Key board Keys used at Locator: xpath://*[@id="sg_popup_email"]]]>
+    </line>
+    <line>
+      <![CDATA[Key board Keys used at Locator: xpath://*[@id="sg_popup_email"]]]>
+    </line>
+    <line>
+      <![CDATA[Entered the value at Locator: xpath://*[@id="sg_popup_email"]]]>
+    </line>
+    <line>
+      <![CDATA[Key board Keys used at Locator: xpath://*[@id="sg_popup_phone_no"]]]>
+    </line>
+    <line>
+      <![CDATA[Key board Keys used at Locator: xpath://*[@id="sg_popup_phone_no"]]]>
+    </line>
+    <line>
+      <![CDATA[Key board Keys used at Locator: xpath://*[@id="sg_popup_phone_no"]]]>
+    </line>
+    <line>
+      <![CDATA[Key board Keys used at Locator: xpath://*[@id="sg_popup_phone_no"]]]>
+    </line>
+    <line>
+      <![CDATA[Key board Keys used at Locator: xpath://*[@id="sg_popup_phone_no"]]]>
+    </line>
+    <line>
+      <![CDATA[Key board Keys used at Locator: xpath://*[@id="sg_popup_phone_no"]]]>
+    </line>
+    <line>
+      <![CDATA[Key board Keys used at Locator: xpath://*[@id="sg_popup_phone_no"]]]>
+    </line>
+    <line>
+      <![CDATA[Key board Keys used at Locator: xpath://*[@id="sg_popup_phone_no"]]]>
+    </line>
+    <line>
+      <![CDATA[Key board Keys used at Locator: xpath://*[@id="sg_popup_phone_no"]]]>
+    </line>
+    <line>
+      <![CDATA[Key board Keys used at Locator: xpath://*[@id="sg_popup_phone_no"]]]>
+    </line>
+    <line>
+      <![CDATA[Key board Keys used at Locator: xpath://*[@id="sg_popup_phone_no"]]]>
+    </line>
+    <line>
+      <![CDATA[Entered the value at Locator: xpath://*[@id="sg_popup_phone_no"]]]>
+    </line>
+    <line>
+      <![CDATA[The Element is clicked at Locator: xpath://*[@id="tc_agree"]]]>
+    </line>
+    <line>
+      <![CDATA[The Element is clicked at Locator: xpath://*[@id="new_sign_up_mode"]/div/div/div[2]/div[1]/form/button]]>
+    </line>
+    <line>
+      <![CDATA[Signle value is fetched at Locator: xpath://*[@id="emailError"]]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="98001" started-at="2019-09-17T11:15:14Z" finished-at="2019-09-17T11:16:52Z">
+    <groups>
+    </groups>
+    <test name="TestModule6" duration-ms="98001" started-at="2019-09-17T11:15:14Z" finished-at="2019-09-17T11:16:52Z">
+      <class name="driverScript.MainScript">
+        <test-method status="PASS" signature="tc02()[pri:1, instance:driverScript.MainScript@7e6f74c]" name="tc02" duration-ms="33652" started-at="2019-09-17T12:15:14Z" finished-at="2019-09-17T12:15:48Z">
+          <reporter-output>
+            <line>
+              <![CDATA[The URL is openedhttps://www.edureka.co/]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tc02 -->
+        <test-method status="PASS" signature="tc01()[pri:2, instance:driverScript.MainScript@7e6f74c]" name="tc01" duration-ms="13738" started-at="2019-09-17T12:15:48Z" finished-at="2019-09-17T12:16:02Z">
+          <reporter-output>
+            <line>
+              <![CDATA[The Element is clicked at Locator: linkText:Log In]]>
+            </line>
+            <line>
+              <![CDATA[Entered the value at Locator: id:si_popup_email]]>
+            </line>
+            <line>
+              <![CDATA[Entered the value at Locator: id:si_popup_passwd]]>
+            </line>
+            <line>
+              <![CDATA[The Element is clicked at Locator: xpath://*[@id="new_sign_up_mode"]/div/div/div[2]/div[3]/form/button]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tc01 -->
+        <test-method status="PASS" signature="tc03()[pri:3, instance:driverScript.MainScript@7e6f74c]" name="tc03" duration-ms="29294" started-at="2019-09-17T12:16:02Z" finished-at="2019-09-17T12:16:31Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Element is hovered and clicked at Locator: xpath://*[@id="footauto"]/app-root/app-mycourse-main/section/app-header/header/nav/div/div[3]/ul/li[2]/div/button]]>
+            </line>
+            <line>
+              <![CDATA[Element is hovered and clicked at Locator: linkText:All Courses]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tc03 -->
+        <test-method status="PASS" signature="tc04()[pri:4, instance:driverScript.MainScript@7e6f74c]" name="tc04" duration-ms="11492" started-at="2019-09-17T12:16:31Z" finished-at="2019-09-17T12:16:43Z">
+          <reporter-output>
+            <line>
+              <![CDATA[The Element is clicked at Locator: xpath://*[@id="header-II"]/section/nav/div/ul[2]/li[1]/a/span]]>
+            </line>
+            <line>
+              <![CDATA[The Element is clicked at Locator: linkText:Log Out]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tc04 -->
+        <test-method status="PASS" signature="tc05()[pri:5, instance:driverScript.MainScript@7e6f74c]" name="tc05" duration-ms="9801" started-at="2019-09-17T12:16:43Z" finished-at="2019-09-17T12:16:52Z">
+          <reporter-output>
+            <line>
+              <![CDATA[The Element is clicked at Locator: xpath://*[@id="header-II"]/section/nav/div/a[1]]]>
+            </line>
+            <line>
+              <![CDATA[Key board Keys used at Locator: xpath://*[@id="sg_popup_email"]]]>
+            </line>
+            <line>
+              <![CDATA[Key board Keys used at Locator: xpath://*[@id="sg_popup_email"]]]>
+            </line>
+            <line>
+              <![CDATA[Key board Keys used at Locator: xpath://*[@id="sg_popup_email"]]]>
+            </line>
+            <line>
+              <![CDATA[Key board Keys used at Locator: xpath://*[@id="sg_popup_email"]]]>
+            </line>
+            <line>
+              <![CDATA[Key board Keys used at Locator: xpath://*[@id="sg_popup_email"]]]>
+            </line>
+            <line>
+              <![CDATA[Key board Keys used at Locator: xpath://*[@id="sg_popup_email"]]]>
+            </line>
+            <line>
+              <![CDATA[Key board Keys used at Locator: xpath://*[@id="sg_popup_email"]]]>
+            </line>
+            <line>
+              <![CDATA[Key board Keys used at Locator: xpath://*[@id="sg_popup_email"]]]>
+            </line>
+            <line>
+              <![CDATA[Key board Keys used at Locator: xpath://*[@id="sg_popup_email"]]]>
+            </line>
+            <line>
+              <![CDATA[Key board Keys used at Locator: xpath://*[@id="sg_popup_email"]]]>
+            </line>
+            <line>
+              <![CDATA[Key board Keys used at Locator: xpath://*[@id="sg_popup_email"]]]>
+            </line>
+            <line>
+              <![CDATA[Key board Keys used at Locator: xpath://*[@id="sg_popup_email"]]]>
+            </line>
+            <line>
+              <![CDATA[Key board Keys used at Locator: xpath://*[@id="sg_popup_email"]]]>
+            </line>
+            <line>
+              <![CDATA[Key board Keys used at Locator: xpath://*[@id="sg_popup_email"]]]>
+            </line>
+            <line>
+              <![CDATA[Key board Keys used at Locator: xpath://*[@id="sg_popup_email"]]]>
+            </line>
+            <line>
+              <![CDATA[Key board Keys used at Locator: xpath://*[@id="sg_popup_email"]]]>
+            </line>
+            <line>
+              <![CDATA[Key board Keys used at Locator: xpath://*[@id="sg_popup_email"]]]>
+            </line>
+            <line>
+              <![CDATA[Key board Keys used at Locator: xpath://*[@id="sg_popup_email"]]]>
+            </line>
+            <line>
+              <![CDATA[Key board Keys used at Locator: xpath://*[@id="sg_popup_email"]]]>
+            </line>
+            <line>
+              <![CDATA[Key board Keys used at Locator: xpath://*[@id="sg_popup_email"]]]>
+            </line>
+            <line>
+              <![CDATA[Key board Keys used at Locator: xpath://*[@id="sg_popup_email"]]]>
+            </line>
+            <line>
+              <![CDATA[Key board Keys used at Locator: xpath://*[@id="sg_popup_email"]]]>
+            </line>
+            <line>
+              <![CDATA[Key board Keys used at Locator: xpath://*[@id="sg_popup_email"]]]>
+            </line>
+            <line>
+              <![CDATA[Key board Keys used at Locator: xpath://*[@id="sg_popup_email"]]]>
+            </line>
+            <line>
+              <![CDATA[Key board Keys used at Locator: xpath://*[@id="sg_popup_email"]]]>
+            </line>
+            <line>
+              <![CDATA[Key board Keys used at Locator: xpath://*[@id="sg_popup_email"]]]>
+            </line>
+            <line>
+              <![CDATA[Key board Keys used at Locator: xpath://*[@id="sg_popup_email"]]]>
+            </line>
+            <line>
+              <![CDATA[Key board Keys used at Locator: xpath://*[@id="sg_popup_email"]]]>
+            </line>
+            <line>
+              <![CDATA[Key board Keys used at Locator: xpath://*[@id="sg_popup_email"]]]>
+            </line>
+            <line>
+              <![CDATA[Key board Keys used at Locator: xpath://*[@id="sg_popup_email"]]]>
+            </line>
+            <line>
+              <![CDATA[Entered the value at Locator: xpath://*[@id="sg_popup_email"]]]>
+            </line>
+            <line>
+              <![CDATA[Key board Keys used at Locator: xpath://*[@id="sg_popup_phone_no"]]]>
+            </line>
+            <line>
+              <![CDATA[Key board Keys used at Locator: xpath://*[@id="sg_popup_phone_no"]]]>
+            </line>
+            <line>
+              <![CDATA[Key board Keys used at Locator: xpath://*[@id="sg_popup_phone_no"]]]>
+            </line>
+            <line>
+              <![CDATA[Key board Keys used at Locator: xpath://*[@id="sg_popup_phone_no"]]]>
+            </line>
+            <line>
+              <![CDATA[Key board Keys used at Locator: xpath://*[@id="sg_popup_phone_no"]]]>
+            </line>
+            <line>
+              <![CDATA[Key board Keys used at Locator: xpath://*[@id="sg_popup_phone_no"]]]>
+            </line>
+            <line>
+              <![CDATA[Key board Keys used at Locator: xpath://*[@id="sg_popup_phone_no"]]]>
+            </line>
+            <line>
+              <![CDATA[Key board Keys used at Locator: xpath://*[@id="sg_popup_phone_no"]]]>
+            </line>
+            <line>
+              <![CDATA[Key board Keys used at Locator: xpath://*[@id="sg_popup_phone_no"]]]>
+            </line>
+            <line>
+              <![CDATA[Key board Keys used at Locator: xpath://*[@id="sg_popup_phone_no"]]]>
+            </line>
+            <line>
+              <![CDATA[Key board Keys used at Locator: xpath://*[@id="sg_popup_phone_no"]]]>
+            </line>
+            <line>
+              <![CDATA[Entered the value at Locator: xpath://*[@id="sg_popup_phone_no"]]]>
+            </line>
+            <line>
+              <![CDATA[The Element is clicked at Locator: xpath://*[@id="tc_agree"]]]>
+            </line>
+            <line>
+              <![CDATA[The Element is clicked at Locator: xpath://*[@id="new_sign_up_mode"]/div/div/div[2]/div[1]/form/button]]>
+            </line>
+            <line>
+              <![CDATA[Signle value is fetched at Locator: xpath://*[@id="emailError"]]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tc05 -->
+      </class> <!-- driverScript.MainScript -->
+    </test> <!-- TestModule6 -->
+  </suite> <!-- Suite -->
+</testng-results>
